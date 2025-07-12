@@ -1,12 +1,12 @@
 <h1 align="center">Binuyo Michael</h1>
 <h2 align="center"><b>I’m a Quality Assurance Engineer/Software Tester</b></h2>
 <ul>
-  <li>📖 I’m currently into Frontend with ReactJs</li>
-  <li>🌱 I’m currently learning Rust on the side</li>
+  <li>📖 I’m currently into Software Testing</li>
+  <li>🌱 I’m currently learning Selenium on the side</li>
   <!-- <li>🎟 I’m interested in Cloud</li> -->
-  <li>💬 Ask me about anything tech related especially on JavaScript, Nodejs or Typescript</li>
-       <a href="mailto:emanuelmechie@gmail.com">
-  <li>       📫 How to reach me : emanuelmechie@gmail.com
+  <li>💬 Ask me about anything tech-related, especially on Cybersecurity, Software Testing, or Quality Assurance</li>
+       <a href="mailto:michaelbinuyo@gmail.com">
+  <li>       📫 How to reach me: michaelbinuyo@gmail.com
   </li>
        </a>
 </ul>
