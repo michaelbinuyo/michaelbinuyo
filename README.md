@@ -1,4 +1,4 @@
-<img src="/Youarefoolish.jpeg" alt="DevOps" width="100%"/>
+<img src="/Youarefoolish.png" alt="DevOps" width="100%"/>
 <h1 align="center">Binuyo Michael</h1>
 <h2 align="center"><b>I’m a Quality Assurance Engineer/Software Tester</b></h2>
 <ul>
