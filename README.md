@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1YCAv8gYmmllvKVJus_XAQCBM3He2X0hq/view" alt="DevOps" width="100%"/>
+<img src="/1752177867486.jpeg" alt="DevOps" width="100%"/>
 <h1 align="center">Binuyo Michael</h1>
 <h2 align="center"><b>I’m a Quality Assurance Engineer/Software Tester</b></h2>
 <ul>
