@@ -1,5 +1,6 @@
+
 <h1 align="center">Binuyo Michael</h1>
-<h2 align="center"><b>I’m a Quality Assurance Engineer/Software Tester</b></h2>
+<h2 align="center"><b>I’m a Quality Assur<img src="https://raw.githubusercontent.com/babslekson/Devops-pbl/main/Deploying-Applications-into-Kubernetes-Cluster_P22/images/devopslg.png" alt="DevOps" width="100%"/>ance Engineer/Software Tester</b></h2>
 <ul>
   <li>📖 I’m currently into Software Testing</li>
   <li>🌱 I’m currently learning Selenium on the side</li>
